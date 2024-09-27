@@ -5,10 +5,10 @@ This repository contains an exploratory data analysis (EDA) project focused on a
 
 ## Data Cleaning Process
 The data used in this project was initially cleaned in a separate repository. The cleaning process involved:
-1. **Removing Duplicates:** Ensured that all duplicate entries were eliminated.
-2. **Standardizing Data:** Standardized formats and filled in missing values where appropriate.
-3. **Handling Missing Values:** Inspected and deleted rows with significant missing information.
-4. **Removing Unnecessary Columns/Rows:** Dropped any columns and rows that were not relevant to the analysis.
+1. **Removing Duplicates:** 
+2. **Standardizing Data:** 
+3. **Handling Missing Values:**
+4. **Removing Unnecessary Columns/Rows:**
 
 You can find the detailed data cleaning process in the following repository:  
 -[Data Cleaning Project Repository0] (https://github.com/Thiruvariyamuthu/SQL-DataCleaning-Project)
